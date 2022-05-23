@@ -1,7 +1,12 @@
-<div align="center">
-  <h3>Hi there </h3>
-  <img src="https://c.tenor.com/Bs0iQd8-sY4AAAAi/steins-gate-sticker.gif" />
-</div>
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sunil-sharma-999&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>
+
+## Code Wars Stats
+<div align="center"><img src="https://www.codewars.com/users/sunil-sharma-999/badges/large" align="center" /></div>  
+
 
 <br/>  
 
@@ -66,18 +71,4 @@
 
 <br/>  
 
-<br/>  
-
-## Code Wars Stats
-<div align="center"><img src="https://www.codewars.com/users/sunil-sharma-999/badges/large" align="center" /></div>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sunil-sharma-999&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-
-<br/>  
-
-  
-
-<br/>  
+<br/>
