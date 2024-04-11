@@ -4,8 +4,8 @@
 
 <br/>
 
-##Leetcode Stats
-![](https://leetcard.jacoblin.cool/sunil-sharma-999?font=Dancing_Script)
+## Leetcode Stats
+![](https://leetcard.jacoblin.cool/sunil-sharma-999)
 
 
 ## Code Wars Stats
