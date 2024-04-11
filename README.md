@@ -4,6 +4,10 @@
 
 <br/>
 
+##Leetcode Stats
+![](https://leetcard.jacoblin.cool/sunil-sharma-999?font=Dancing_Script)
+
+
 ## Code Wars Stats
 <div align="center"><img src="https://www.codewars.com/users/sunil-sharma-999/badges/large" align="center" /></div>  
 
