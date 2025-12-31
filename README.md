@@ -1,8 +1,4 @@
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sunil-sharma-999&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>
 
 ## Leetcode Stats
 ![](https://leetcard.jacoblin.cool/sunil-sharma-999)
